@@ -1,12 +1,12 @@
 # Out of my Zone!
-A simple DCS Script for creating No-Fly- Zones for each coalition. Rather than creating an individual trigger for each aircraft, checking if they're in enemy air space, and exploding just that one unit. This script will do it with just 1 trigger per zone!
+A simple DCS Script for creating No-Fly-Zones for each coalition. Rather than creating an individual trigger for each aircraft, checking if they're in enemy air space, and exploding just that one unit. This script will do it with just 1 trigger per zone!
 
 ### REQUIRES mist.lua!
 Can be found here: https://github.com/mrSkortch/MissionScriptingTools
 
 ## HOW TO SETUP:
 1. Create a ONCE trigger with a TIME MORE (1) and DO SCRIPT FILE mist.lua
-2. Create a ONCE trigger with a TIME MORE (2) and DO SCRIPT FILE oomz.lua
+2. Create a ONCE trigger with a TIME MORE (2) and DO SCRIPT FILE outofmyzone.lua
 3. Create a zone to cover the area you want to protect.
 
 ## HOW TO USE:
