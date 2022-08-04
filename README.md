@@ -10,10 +10,10 @@ Can be found here: https://github.com/mrSkortch/MissionScriptingTools
 3. Create a zone to cover the area you want to protect.
 
 ## HOW TO USE:
-Create a REPETITIVE trigger
-Conditions: PART OF COALITION IN ZONE [enemy coalition, zone name, ALL]
-Actions: DO SCRIPT `oomz('coalition to protect', 'zone name')` *[Ex: `oomz('blue', 'Zone-1')` ]*
-Repeat for as many zones as you want!
+1. Create a REPETITIVE trigger
+2. Conditions: PART OF COALITION IN ZONE [enemy coalition, zone name, ALL]
+3. Actions: DO SCRIPT `oomz('coalition to protect', 'zone name')` *[Ex: `oomz('blue', 'Zone-1')` ]*
+4. Repeat for as many zones as you want!
 
 ## WHAT WILL HAPPEN:
 When an enemy unit crosses over the border of the zone, the script will create a 100 size explosion to destroy it. Then it will have pop up text saying "(Unit-Name) (Player-Name) entered enemy territory and has been eliminated" for 15 seconds
