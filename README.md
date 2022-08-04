@@ -18,4 +18,6 @@ Can be found here: https://github.com/mrSkortch/MissionScriptingTools
 ## WHAT WILL HAPPEN:
 When an enemy unit crosses over the border of the zone, the script will create a 100 size explosion to destroy it. Then it will have pop up text saying "(Unit-Name) (Player-Name) entered enemy territory and has been eliminated" for 15 seconds
 
-![Example](https://user-images.githubusercontent.com/51061164/182929915-adb3f5b9-8c3a-40ab-8196-f5e3a7a4507f.PNG)
+
+### EXAMPLE:
+![Example](https://user-images.githubusercontent.com/51061164/182930426-6b4cd020-0d5a-46ca-a22d-193317864a96.PNG)
